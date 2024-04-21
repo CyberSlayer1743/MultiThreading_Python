@@ -1,4 +1,4 @@
-# MultiThreading using Python
+# Multi-Threading using Python
 In this repository, we delve into multithreading using Python's threading library.
 Experiment conducted on: AMD Ryzen 5600 H Hexa-Core CPU [12 Logical units (thanks to hyperthreading)].
 
